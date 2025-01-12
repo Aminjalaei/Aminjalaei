@@ -1,0 +1,2 @@
+Django==<نسخه فعلی Django شما>
+gunicorn
